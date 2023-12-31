@@ -1,4 +1,4 @@
 # Network_Administration_project
 Project about config DHCP/NAT and file sharing services on linux sever
 ---
-Demo video: https://youtu.be/0GMW3UTxw8E
+Demo video: https://www.youtube.com/watch?v=LZWOMmuSBNU
